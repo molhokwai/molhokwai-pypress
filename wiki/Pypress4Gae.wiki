@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels Phase-Design
+#labels Phase-Design,Featured
 
 === Link ===
 [http://code.google.com/p/pypress4gae/ pypress4gae]
